@@ -1,0 +1,6 @@
+@BMDBNetWeb_HostAddress = http://localhost:5051
+
+GET {{BMDBNetWeb_HostAddress}}/movies/
+Accept: application/json
+
+###
