@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BMDBNetWeb.Models;
@@ -31,4 +32,5 @@ public partial class Movie
 
     [InverseProperty("Movie")]
     public virtual ICollection<Credit> Credits { get; set; } = new List<Credit>();
+   
 }

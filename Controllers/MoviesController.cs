@@ -103,5 +103,9 @@ namespace BMDBNetWeb.Controllers
         {
             return _context.Movies.Any(e => e.Id == id);
         }
+        public async Task<ActionResult<IEnumerable<Movie>>> GetMoviesForRating(string rating)
+        {
+            return await _context.Movies.Where(m => m.Rating == rating).ToListAsync();
+        }
     }
 }

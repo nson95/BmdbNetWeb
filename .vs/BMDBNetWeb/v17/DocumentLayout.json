@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\controllers\\creditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:controllers\\creditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\bmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +27,24 @@
       "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|c:\\repos\\c-sharp-repo\\bmdbnetweb\\bmdbnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B024300D-7473-4293-B55A-5FFDD9838D13}|BMDBNetWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +54,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
+              "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Models\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:12:04.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwFcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:46:45.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:34:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditsController.cs",
+              "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\CreditsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CreditsController.cs",
+              "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\CreditsController.cs",
+              "RelativeToolTip": "Controllers\\CreditsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:46:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Credit.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\Credit.cs",
               "RelativeDocumentMoniker": "Models\\Credit.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\Credit.cs",
               "RelativeToolTip": "Models\\Credit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T19:28:09.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Actor.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\Actor.cs",
               "RelativeDocumentMoniker": "Models\\Actor.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\Actor.cs",
               "RelativeToolTip": "Models\\Actor.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:28:38.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-21T16:20:09.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywGwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:20:05.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:05:19.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T16:05:19.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BmdbContext.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\BmdbContext.cs",
               "RelativeDocumentMoniker": "Models\\BmdbContext.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\BmdbContext.cs",
               "RelativeToolTip": "Models\\BmdbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:10:44.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Models\\Movie.cs",
               "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:11:11.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ActorsController.cs",
               "DocumentMoniker": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\ActorsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
               "ToolTip": "C:\\Repos\\c-sharp-repo\\BMDBNetWeb\\BMDBNetWeb\\Controllers\\ActorsController.cs",
               "RelativeToolTip": "Controllers\\ActorsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAiwBgAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:29:24.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T16:29:24.751Z"
             }
           ]
         }
